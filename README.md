@@ -12,4 +12,5 @@ Adding brief summaries of the dishes by emphasizing them below their pictures
 Implementing a body and paragraph element to describe what the recipe is all about
 Linking a CSS stylesheet to the HTML files
 Implementing various types of CSS selectors and inheritance, keeping in mind of specificity rules.
+
 Source of project: https://www.theodinproject.com/paths/foundations/courses/foundations
