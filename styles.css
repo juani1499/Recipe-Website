@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(220, 223, 241)
+
+}
+
+img {
+    height: 400px;
+    width: 500px;
+}
+p,
+ol,
+ul {
+    width: 500px;
+}
