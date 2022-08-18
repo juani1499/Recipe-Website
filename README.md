@@ -1,4 +1,4 @@
-This project is aimed toward practicing my basic HTML knowledge that I have acquired while doing the Odin project.
+This project is aimed toward practicing my basic HTML knowledge that I have acquired while doing The Odin Project.
 
 I will be building a basic recipe website. This website will have an index page and other links containing recipes to the different dishes provided on the site. Some inspiration for tasty treats!
 
